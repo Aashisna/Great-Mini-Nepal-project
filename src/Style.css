@@ -1,0 +1,46 @@
+
+*{
+    margin:0px; padding:0px;
+}
+#home{
+    margin:0px;
+    padding: 0px;
+}
+body{
+    background-color: seashell;
+    text-align: center;
+}
+h1{
+    
+    text-align: center;
+}
+h2{
+    background-color: teal;
+    color:thistle;
+    padding: 10px;
+    text-align: center;
+}
+
+a{
+    color:thistle;
+    margin-right: 10px;
+    text-decoration: none;
+    padding: 5px;
+}
+.ft{
+    background-color: black;
+    color:thistle;
+    padding:8px;
+}
+.n{
+    position: sticky;
+    width:100%;
+    /* top:0; */
+    z-index: 999;
+    /* box-shadow: 8px 8px 24px 5px rgb(248, 243, 243); */
+    background-color: black;
+    color:thistle;
+    margin:0px;
+    padding:0px;
+  }
+ 
